@@ -1,0 +1,3 @@
+{
+    "ptresets": ["es2015"; "react"]
+}
